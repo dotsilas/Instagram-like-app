@@ -1,2 +1,2 @@
-# Instagram-like-app
+# Instalike app
 Instagram Clone w/ Django and React
